@@ -1,2 +1,3 @@
 # KUMPULAN-TUGAS-STRUKTUR-DATA
 pertemuan 1
+[KUMPULAN TUGAS STRUKTUR DATA.docx](https://github.com/user-attachments/files/26386473/KUMPULAN.TUGAS.STRUKTUR.DATA.docx)
