@@ -1,0 +1,2 @@
+# KUMPULAN-TUGAS-STRUKTUR-DATA
+pertemuan 1
